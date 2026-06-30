@@ -119,7 +119,7 @@ const Auth = () => {
           <div className="flex items-center justify-center gap-2 mb-6">
             <Tent className="h-5 w-5 text-primary" />
             <span className="text-sm font-normal tracking-wide text-background">
-              Wild Haven
+              Sage & Oak
             </span>
           </div>
           <h1 className="text-2xl font-light text-background mb-2 tracking-tight">

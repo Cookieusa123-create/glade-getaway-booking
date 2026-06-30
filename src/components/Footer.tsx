@@ -8,10 +8,10 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Tent className="h-4 w-4" />
-              <span className="text-sm font-normal tracking-wide">Wild Haven</span>
+              <span className="text-sm font-normal tracking-wide">Sage & Oak</span>
             </div>
             <p className="text-background/70 text-xs font-light leading-relaxed max-w-xs">
-              Creating meaningful connections with nature through sustainable off-grid experiences.
+              Curated stays where wild landscapes meet quiet luxury. Reconnect with what matters most.
             </p>
           </div>
 
@@ -56,9 +56,9 @@ const Footer = () => {
           <div>
             <h4 className="text-sm font-medium mb-4">Contact Us</h4>
             <div className="flex flex-col gap-2 mb-8">
-              <a href="mailto:hello@wildhaven.com" className="text-background/70 hover:text-background smooth-hover text-xs font-light flex items-center gap-2">
+              <a href="mailto:hello@sageandoak.com" className="text-background/70 hover:text-background smooth-hover text-xs font-light flex items-center gap-2">
                 <Mail className="h-3 w-3" />
-                hello@wildhaven.com
+                hello@sageandoak.com
               </a>
               <p className="text-background/70 text-xs font-light">
                 Mon - Fri: 9am - 5pm
@@ -81,7 +81,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-background/20 pt-8 mt-12 text-center text-background/50 text-xs font-light">
-          <p>&copy; 2026 Wild Haven. All rights reserved.</p>
+          <p>&copy; 2026 Sage & Oak. All rights reserved.</p>
         </div>
       </div>
     </footer>;
