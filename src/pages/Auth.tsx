@@ -119,7 +119,7 @@ const Auth = () => {
           <div className="flex items-center justify-center gap-2 mb-6">
             <Tent className="h-5 w-5 text-primary" />
             <span className="text-sm font-normal tracking-wide text-background">
-              Wild Haven
+              Sage & Oak
             </span>
           </div>
           <h1 className="text-2xl font-light text-background mb-2 tracking-tight">
@@ -142,7 +142,7 @@ const Auth = () => {
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="admin@wildhaven.com"
+              placeholder="admin@sageandoak.com"
               className="bg-background/10 border-background/20 text-background placeholder:text-background/30 focus-visible:ring-primary"
               required
             />

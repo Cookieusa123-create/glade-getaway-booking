@@ -64,7 +64,7 @@ const Navigation = ({
           }} className="flex items-center gap-2 cursor-pointer">
               <Tent className={`h-4 w-4 ${isMobileMenuOpen || isDark || !isScrolled ? "text-white" : "text-primary"}`} />
               <span className={`text-sm font-normal tracking-wide ${isMobileMenuOpen || isDark || !isScrolled ? "text-white" : "text-foreground"}`}>
-                Wild Haven
+                Sage & Oak
               </span>
             </motion.div>
           </Link>
