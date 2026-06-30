@@ -142,7 +142,7 @@ const Auth = () => {
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="admin@wildhaven.com"
+              placeholder="admin@sageandoak.com"
               className="bg-background/10 border-background/20 text-background placeholder:text-background/30 focus-visible:ring-primary"
               required
             />
